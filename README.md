@@ -29,7 +29,7 @@ I am a Data Analyst with experience in analyzing, cleaning, and visualizing data
 In this project, users can browse products, add or remove items from the cart, and place orders smoothly.
 An admin panel is included to manage products and orders efficiently.
 
-# 🚀 Features
+## 🚀 Features
 - User Registration & Login
 - Product Listing & Categories
 - Add to Cart & Remove from Cart
