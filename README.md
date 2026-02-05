@@ -49,6 +49,7 @@ An admin panel is included to manage products and orders efficiently.
 This project analyzes smartphone usage data to understand user behavior, screen time patterns, and app usage trends.
 The goal is to extract meaningful insights that show how users interact with their smartphones on a daily basis.
 ## 🎯 Objectives
+
 - Analyze daily smartphone usage patterns
 - Compare screen time across different apps
 - Identify trends in user behavior
