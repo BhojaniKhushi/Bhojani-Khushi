@@ -25,9 +25,9 @@ I am a Data Analyst with experience in analyzing, cleaning, and visualizing data
 
 # 🛍️ Pillow Master – PHP E-Commerce
 
-   Pillow Master ek PHP-based e-commerce website hai jo pillows aur bedding products ki online shopping ko easy banati hai.
-Is project me users products browse kar sakte hain, cart me add/remove kar sakte hain aur order place kar sakte hain.
-Admin panel ke through products aur orders manage kiye ja sakte hain.
+   Pillow Master is a PHP-based e-commerce website designed to make online shopping for pillows and bedding products easy and user-friendly.
+In this project, users can browse products, add or remove items from the cart, and place orders smoothly.
+An admin panel is included to manage products and orders efficiently.
 
 # 🚀 Features
 - User Registration & Login
@@ -43,6 +43,11 @@ Admin panel ke through products aur orders manage kiye ja sakte hain.
 - Frontend: HTML, CSS, JavaScript
 - Server: XAMPP
 
+# 📱 Smartphone Usage Analysis Project
+
+This project analyzes smartphone usage data to understand user behavior, screen time patterns, and app usage trends.
+The goal is to extract meaningful insights that show how users interact with their smartphones on a daily basis.
+# 🎯 Objectives
 
 
  
