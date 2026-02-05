@@ -8,3 +8,13 @@ I am a Data Analyst with experience in analyzing, cleaning, and visualizing data
 📊 I work in Data Analysis and enjoy turning data into meaningful insights.  
 🌱 Currently improving my skills in Python, data visualization, and English communication.  
 📈 I like working with real-world datasets and building interactive dashboards.  
+
+# 🧠 Technical Skills
+Excel
+SQL
+Power BI
+Python
+Data Analysis & Data Cleaning
+Data Visualization
+Basic Statistics
+Git & GitHub
