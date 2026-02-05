@@ -19,6 +19,15 @@ Excel | SQL | Power BI | Python | Data Analysis & Data Cleaning | Data Visualiza
 Is project me users products browse kar sakte hain, cart me add/remove kar sakte hain aur order place kar sakte hain.
 Admin panel ke through products aur orders manage kiye ja sakte hain.
 
+# 🚀 Features
+User Registration & Login
+Product Listing & Categories
+Add to Cart & Remove from Cart
+Order Placement System
+Admin Panel for Product Management
+Product Image Upload
+Responsive Design
+
 🔧 Tech Stack
 • PHP, MySQL
 • HTML, CSS, JavaScript
