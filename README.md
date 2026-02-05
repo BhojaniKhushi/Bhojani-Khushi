@@ -28,7 +28,7 @@ Admin Panel for Product Management
 Product Image Upload
 Responsive Design
 
-🔧 Tech Stack
-• PHP, MySQL
-• HTML, CSS, JavaScript
-• XAMPP
+### 🔧 Tech Stack
+• Backend: PHP, MySQL  
+• Frontend: HTML, CSS, JavaScript  
+• Server: XAMPP  
