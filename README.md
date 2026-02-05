@@ -10,7 +10,7 @@ I am a Data Analyst with experience in analyzing, cleaning, and visualizing data
 📈 I like working with real-world datasets and building interactive dashboards.  
 
 # 🧠 Technical Skills
-Excel
+Excel<br>
 SQL
 Power BI
 Python
