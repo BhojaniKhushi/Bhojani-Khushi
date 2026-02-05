@@ -13,6 +13,7 @@ I am a Data Analyst with experience in analyzing, cleaning, and visualizing data
 Excel | SQL | Power BI | Python | Data Analysis & Data Cleaning | Data Visualization | Basic Statistics | Git & GitHub
 
 # 📂 My Projects
+
 # 🛍️ Pillow Master – PHP E-Commerce
 
    Pillow Master ek PHP-based e-commerce website hai jo pillows aur bedding products ki online shopping ko easy banati hai.
@@ -28,7 +29,17 @@ Admin Panel for Product Management
 Product Image Upload
 Responsive Design
 
-### 🔧 Tech Stack
-• Backend: PHP, MySQL  
-• Frontend: HTML, CSS, JavaScript  
-• Server: XAMPP  
+# 🔧 Tech Stack
+
+**Backend**
+- PHP
+- MySQL
+
+**Frontend**
+- HTML
+- CSS
+- JavaScript
+
+**Server**
+- XAMPP
+ 
