@@ -38,7 +38,7 @@ An admin panel is included to manage products and orders efficiently.
 - Product Image Upload
 - Responsive Design
 
-# 🔧 Tech Stack
+## 🔧 Tech Stack
 - Backend: PHP, MySQL
 - Frontend: HTML, CSS, JavaScript
 - Server: XAMPP
