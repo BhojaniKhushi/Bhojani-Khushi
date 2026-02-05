@@ -10,9 +10,16 @@ I am a Data Analyst with experience in analyzing, cleaning, and visualizing data
 📈 I like working with real-world datasets and building interactive dashboards.  
 
 ### 🧠 Technical Skills
--Excel 
--SQL 
-Power BI | Python | Data Analysis & Data Cleaning | Data Visualization | Basic Statistics | Git & GitHub
+- Excel
+- SQL
+- Power BI
+- Python
+- Data Analysis
+- Data Cleaning
+- Data Visualization
+- Basic Statistics
+- Git & GitHub
+
 
 # 📂 My Projects
 
