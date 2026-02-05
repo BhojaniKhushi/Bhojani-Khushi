@@ -43,6 +43,7 @@ An admin panel is included to manage products and orders efficiently.
 - Frontend: HTML, CSS, JavaScript
 - Server: XAMPP
 
+
 # 📱 Smartphone Usage Analysis Project
 
 This project analyzes smartphone usage data to understand user behavior, screen time patterns, and app usage trends.
