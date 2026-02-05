@@ -30,13 +30,13 @@ Is project me users products browse kar sakte hain, cart me add/remove kar sakte
 Admin panel ke through products aur orders manage kiye ja sakte hain.
 
 # 🚀 Features
-User Registration & Login
-Product Listing & Categories
-Add to Cart & Remove from Cart
-Order Placement System
-Admin Panel for Product Management
-Product Image Upload
-Responsive Design
+- User Registration & Login
+- Product Listing & Categories
+- Add to Cart & Remove from Cart
+- Order Placement System
+- Admin Panel for Product Management
+- Product Image Upload
+- Responsive Design
 
 # 🔧 Tech Stack
 - Backend: PHP, MySQL
