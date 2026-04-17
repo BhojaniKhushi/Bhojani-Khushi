@@ -74,5 +74,6 @@ This project is built using real-world manufacturing dataset and focuses on extr
 🔹 Insight generation to identify high-risk production conditions and improve quality control
 
 🤗 Hugging Face Space: (https://huggingface.co/spaces/khushi-bhojani/quality-control-manufacturing)
+
     source Code:(https://github.com/BhojaniKhushi/manufacturing-defect-detection)
  
