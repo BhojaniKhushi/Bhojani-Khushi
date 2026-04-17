@@ -1,4 +1,4 @@
-# Hi 👋 I'm Khushi  
+<img width="1047" height="588" alt="Screenshot 2026-04-17 165526" src="https://github.com/user-attachments/assets/0949f401-0074-4def-a8b0-08b7b290f2e7" /># Hi 👋 I'm Khushi  
 🎯 Aspiring Data Analyst & Data Scientist | BCA Student | Excel • SQL • Python • Power BI | Data Visualization | Data Analytics Learner
 
 
@@ -76,7 +76,19 @@ This project is built using real-world manufacturing dataset and focuses on extr
 🤗 Hugging Face Space: (https://huggingface.co/spaces/khushi-bhojani/quality-control-manufacturing)
 
    Source Code:(https://github.com/BhojaniKhushi/manufacturing-defect-detection)
+
  
+
+#  📊 Power Bi Projects
+
+# ✨ super-market-sales-Dashboard
+A visually interactive sales dashboard analyzing super-market performance, showcasing key insights like sales trends, category-wise distribution, profit analysis, and customer segments for better business decision-making.
+
+<img width="1047" height="588" alt="Screenshot 2026-04-17 165526" src="https://github.com/user-attachments/assets/22ab7666-5b7e-4127-a318-e3f9f1a4945d" />
+
+
+
+
  
 
      
