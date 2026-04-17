@@ -86,7 +86,7 @@ A visually interactive sales dashboard analyzing super-market performance, showc
 
 <img width="1047" height="588" alt="Screenshot 2026-04-17 165526" src="https://github.com/user-attachments/assets/22ab7666-5b7e-4127-a318-e3f9f1a4945d" />
 
-
+# ✨ super-market-sales-Dashboard
 
 
  
