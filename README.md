@@ -56,4 +56,16 @@ The goal is to extract meaningful insights that show how users interact with the
 - Generate insights using data visualization
 
 Source Code:(https://github.com/BhojaniKhushi/SmartPhone-usage)
+
+# 🏭🔍 Manufacturing Defect Detection using Data Science & Machine Learning
+
+A comprehensive Data Science & Machine Learning project analyzing manufacturing process data to identify defect patterns and high-risk production conditions.
+This project is built using real-world manufacturing dataset and focuses on extracting actionable insights to improve product quality and reduce production defects through data-driven decisions.
+## ✨ Key Highlights
+
+ 🔹  Data cleaning & preprocessing of industrial manufacturing data
+ 🔹  Exploratory Data Analysis (EDA) to understand patterns in temperature, pressure, and humidity
+ 🔹  Feature engineering for identifying key factors influencing defects
+ 🔹  Machine Learning model (Random Forest) for defect prediction and classification
+ 🔹  Insight generation to identify high-risk production conditions and improve quality control
  
