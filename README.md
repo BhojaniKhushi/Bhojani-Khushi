@@ -64,5 +64,5 @@ This project is built using real-world manufacturing dataset and focuses on extr
 ## ✨ Key Highlights
 
 🔹  Data cleaning & preprocessing of industrial manufacturing data
-
+🔹 Exploratory Data Analysis (EDA) to understand patterns in temperature, pressure, and humidity
  
