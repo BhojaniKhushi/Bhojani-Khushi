@@ -1,4 +1,4 @@
-<img width="1047" height="588" alt="Screenshot 2026-04-17 165526" src="https://github.com/user-attachments/assets/0949f401-0074-4def-a8b0-08b7b290f2e7" /># Hi 👋 I'm Khushi  
+# Hi 👋 I'm Khushi  
 🎯 Aspiring Data Analyst & Data Scientist | BCA Student | Excel • SQL • Python • Power BI | Data Visualization | Data Analytics Learner
 
 
