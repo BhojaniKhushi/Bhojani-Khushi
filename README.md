@@ -64,10 +64,15 @@ This project is built using real-world manufacturing dataset and focuses on extr
 ## ✨ Key Highlights
 
 🔹  Data cleaning & preprocessing of industrial manufacturing data
+
 🔹  Exploratory Data Analysis (EDA) to understand patterns in temperature, pressure, and humidity
+
 🔹  Feature engineering for identifying key factors influencing defects
 
 🔹 Machine Learning model (Random Forest) for defect prediction and classification
 
 🔹 Insight generation to identify high-risk production conditions and improve quality control
+
+🤗 Hugging Face Space: (https://huggingface.co/spaces/khushi-bhojani/quality-control-manufacturing)
+    source Code:(
  
