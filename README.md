@@ -120,9 +120,13 @@ Highlights top models, sales trends, and market insights for data-driven decisio
 
 # 🏆  Certificates
 🎓 Data Science - Sparks to Idea
+
 🏅 Data Analysis with Python - freecodecamp
+
 📜 Data Analysis with Python - IBM
+
 ⭐ Data Analytics - WscubeTech
+
 🏅 NLP with Python - FirstBitSolutions
 
      
