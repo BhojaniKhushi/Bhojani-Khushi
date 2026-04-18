@@ -77,7 +77,27 @@ This project is built using real-world manufacturing dataset and focuses on extr
 
    Source Code:(https://github.com/BhojaniKhushi/manufacturing-defect-detection)
 
- 
+# 🛒📊 Indian Grocery Sales Analysis using Data Analytics
+A comprehensive Data Analysis project focused on analyzing Indian grocery sales data to identify purchasing patterns, top-selling products, and revenue trends.
+This project is built using real-world retail data and aims to generate actionable insights for improving sales performance and inventory management.
+## ✨ Key Highlights
+
+🔹 Data cleaning & preprocessing of grocery dataset
+
+🔹 Exploratory Data Analysis (EDA) to understand customer buying behavior
+
+🔹 Analysis of product categories and sales distribution
+
+🔹 Identification of top-selling products and revenue contributors
+
+🔹 Sales trend analysis across time (monthly/yearly)
+
+🔹 Dashboard creation using Power BI / visualization tools
+
+🔹 Insight generation for better inventory and business decisions
+
+ Source Code:(https://github.com/BhojaniKhushi/Indian-Grocery)
+
 
 #  📊 Power Bi Projects
 
@@ -92,7 +112,10 @@ Provides insights on top products, customers, and business segments with interac
 
 <img width="1320" height="740" alt="Screenshot 2026-04-17 170724" src="https://github.com/user-attachments/assets/dc2bd3a7-aceb-4798-8a67-8db1a54a6f53" />
 
-
+# ✨ Car-Shop-Sales-dashboard
+Car sales dashboard analyzing revenue, units sold, and brand performance using Power BI.
+Highlights top models, sales trends, and market insights for data-driven decision making.
+<img width="1213" height="739" alt="Screenshot 2026-04-17 164914" src="https://github.com/user-attachments/assets/ae99ed97-f576-434d-9343-bf5d5bbcbc40" />
 
  
 
