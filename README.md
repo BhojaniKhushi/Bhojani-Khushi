@@ -86,7 +86,12 @@ A visually interactive sales dashboard analyzing super-market performance, showc
 
 <img width="1047" height="588" alt="Screenshot 2026-04-17 165526" src="https://github.com/user-attachments/assets/22ab7666-5b7e-4127-a318-e3f9f1a4945d" />
 
-# ✨ super-market-sales-Dashboard
+# ✨ Bicycle-shop-sales-dashboard
+Sales dashboard for a Bicycle Shop analyzing total sales, profit, and units sold using Power BI.
+Provides insights on top products, customers, and business segments with interactive filters.
+
+<img width="1320" height="740" alt="Screenshot 2026-04-17 170724" src="https://github.com/user-attachments/assets/dc2bd3a7-aceb-4798-8a67-8db1a54a6f53" />
+
 
 
  
