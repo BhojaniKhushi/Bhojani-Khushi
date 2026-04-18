@@ -117,6 +117,12 @@ Car sales dashboard analyzing revenue, units sold, and brand performance using P
 Highlights top models, sales trends, and market insights for data-driven decision making.
 <img width="1213" height="739" alt="Screenshot 2026-04-17 164914" src="https://github.com/user-attachments/assets/ae99ed97-f576-434d-9343-bf5d5bbcbc40" />
 
- 
+
+# 🏆  Certificates
+🎓 Data Science - Sparks to Idea
+🏅 Data Analysis with Python - freecodecamp
+📜 Data Analysis with Python - IBM
+⭐ Data Analytics - WscubeTech
+🏅 NLP with Python - FirstBitSolutions
 
      
